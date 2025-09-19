@@ -232,3 +232,4 @@ class ScopusEnhancer:
             'compatibility_factors': factors,
             'scopus_ready': compatibility_score >= 70
         }
+

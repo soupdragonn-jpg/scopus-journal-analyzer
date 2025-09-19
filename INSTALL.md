@@ -160,3 +160,4 @@ scopus-journal-analyzer/
 ## Лиценз
 
 MIT License - свободно за използване и модификация.
+

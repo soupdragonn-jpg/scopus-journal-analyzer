@@ -209,3 +209,4 @@ readiness = analyzer.calculate_scopus_readiness(journal_data)
 **Дата**: 2024  
 **Лиценз**: MIT  
 **Автор**: AI Assistant
+
